@@ -2,7 +2,7 @@
 // Space Invaders 1978 in C
 // Jason McSweeney
 
-#define _XOPEN_SOURCE
+#define _XOPEN_SOURCE 700
 
 #include <stdio.h>
 #include <stdarg.h>
